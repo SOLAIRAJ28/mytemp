@@ -1,10 +1,14 @@
 This is sample file
+ C
+Content for branch C
+Content for branch C
+Content for branch C
  B
 Content for branch B
 Content for branch B
 Content for branch B
-=======
 Content for branch A
 Content for branch A
 Content for branch A
+ main
  main
